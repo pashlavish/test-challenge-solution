@@ -1,0 +1,11 @@
+{
+  "name": "cypress-access-tests",
+  "version": "1.0.0",
+  "description": "Cypress tests for Minimizing Unauthorized Access",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}

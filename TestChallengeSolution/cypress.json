@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://your-application-url",
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "cypress/integration",
+    "testFiles": "**/*.js"
+  }
+  

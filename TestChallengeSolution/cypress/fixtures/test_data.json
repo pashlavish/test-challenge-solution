@@ -1,0 +1,21 @@
+
+
+{
+  "admin": {
+    "username": "admin",
+    "password": "adminPassword"
+  },
+  "brandAdmin": {
+    "username": "brandAdmin",
+    "password": "brandAdminPassword",
+    "brand": "TestBrand1"
+  },
+  "user": {
+    "username": "readOnlyUser",
+    "password": "userPassword"
+  },
+  "invalidUser": {
+    "username": "invalidUser",
+    "password": "invalidPassword"
+  }
+}
