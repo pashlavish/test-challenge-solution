@@ -1,4 +1,4 @@
-# UpdateMockTestData
+# Challenge
 
 Problem Statement :
   We have a software system managing the following entities:
